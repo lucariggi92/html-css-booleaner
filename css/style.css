@@ -50,13 +50,15 @@
 }
 .tbody1{
     background-color: aqua;
-    font-weight:700;
+
    
 }
-.tbody2{
-   font-weight:700; 
-   
-}
+
 .cell-size {
     width: 400px;
+}
+
+.footer{
+    color: gray;
+    font:
 }
