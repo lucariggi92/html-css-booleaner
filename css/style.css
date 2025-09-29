@@ -1,0 +1,39 @@
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-size:40%;
+    background-color: rgb(10, 226, 241);
+    height: 100px;
+}
+
+.logo{
+    background-image: url(../img/logo.svg);
+    width: 200px;
+    position:relative;
+    top: 40px   
+   
+}
+
+.blu-text {
+    color: rgb(9, 156, 156);
+}
+
+.title {
+    margin-bottom: 0.5%;
+}
+.author {
+    color: gray;
+    line-height: 0.5;
+    font-size: 20px;
+    margin-top: 0%;
+}
+
+.date{
+    font-size: 8px;
+}
+
+.figure{
+   margin-left: 0%;
+}
+.fig-caption{
+    font-size: 8px;
+}
